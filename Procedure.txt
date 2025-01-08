@@ -1,0 +1,1 @@
+I attempted to complete this assignment using Phaser.js with the help of some YouTube tutorials. While I managed to achieve a part of the required output, the final result is not up to the expected standard. I have submitted the work I could complete within the given timeframe. I appreciate the opportunity to work on this task and look forward to your feedback.
